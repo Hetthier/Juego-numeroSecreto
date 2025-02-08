@@ -62,6 +62,7 @@ function condicionesIniciales() {
 }
 
 function reiniciarJuego() {
+    //comnatario para combiar el codigo
     limpiarCaja();
     condicionesIniciales();
     document.querySelector('#reiniciar').setAttribute('disabled','true');
