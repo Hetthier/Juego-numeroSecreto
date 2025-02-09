@@ -54,7 +54,6 @@ function generarNumeroSecreto() {
 }
 
 
-
 //lineas de ejemplo cambio
 function condicionesIniciales() {
     asignarTextoElemento('h1','Juego del número secreto!');
