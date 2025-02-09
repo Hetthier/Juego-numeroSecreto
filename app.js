@@ -53,6 +53,7 @@ function generarNumeroSecreto() {
     }
 }
 
+//comentario para probar rama 
 
 //lineas de ejemplo cambio
 function condicionesIniciales() {
@@ -70,5 +71,4 @@ function reiniciarJuego() {
     document.querySelector('#reiniciar').setAttribute('disabled','true');
     
 }
-
 condicionesIniciales();
